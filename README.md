@@ -9,7 +9,7 @@ Golang, Typescript
 
 ### 📫 How to reach me ...
 
-  Shoot me a PM
+  Shoot me an email
 
 <!---
 kage1414/kage1414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
