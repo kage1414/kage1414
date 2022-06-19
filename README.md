@@ -1,11 +1,7 @@
 # 👋 Hi, I’m @kage1414
 ### 👀 I’m interested in ...
 
-Javascript, MERN Stack, PostgreSQL, MySQL
-  
-### 🌱 I’m currently learning ...
-
-Golang, Typescript
+Javascript, Hack, Node.js
 
 ### 📫 How to reach me ...
 
