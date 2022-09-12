@@ -6,7 +6,7 @@
 Frontend Developer - Enterprise Products
 #### Facebook / Meta
 ##### 2021 - 2022
-Enterprise Engineering - Supply Chain Products
+Enterprise Software Engineer - Supply Chain Products
 
 ### Projects
 
