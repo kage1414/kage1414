@@ -1,7 +1,12 @@
 # 👋 Hi, I’m @kage1414
+
+### Frontend Dev at CremaLab
+
+### Ex-Facebook/Meta
+
 ### 👀 I’m interested in ...
 
-Javascript, Hack, Node.js
+Javascript, Hack, Node.js, GoLang
 
 
 <!---
