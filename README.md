@@ -8,7 +8,11 @@ Frontend Developer - Enterprise Products
 ##### 2021 - 2022
 Enterprise Engineering - Supply Chain Products
 
-### 👀  Favorite Tech / I’m interested in ...
+### Projects
+
+- [LyricKeeper](https://www.lyrickeeper.com/)
+
+### Favorite Tech / I’m interested in ...
 
 - React.js
 - Apollo GraphQL
