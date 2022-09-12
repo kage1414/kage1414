@@ -1,8 +1,12 @@
 # 👋 Hi, I’m @kage1414
 
-### Frontend Dev at CremaLab
-
-### Ex-Facebook/Meta
+### Experience
+#### CremaLab
+Frontend Developer
+Enterprise Products
+#### Ex-Facebook/Meta
+Enterprise Engineering
+Supply Chain Products
 
 ### 👀 I’m interested in ...
 
