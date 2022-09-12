@@ -2,15 +2,19 @@
 
 ### Experience
 #### CremaLab
-Frontend Developer
-Enterprise Products
-#### Ex-Facebook/Meta
-Enterprise Engineering
-Supply Chain Products
+##### 2022 - Present
+Frontend Developer - Enterprise Products
+#### Facebook / Meta
+##### 2021 - 2022
+Enterprise Engineering - Supply Chain Products
 
-### 👀 I’m interested in ...
+### 👀  Favorite Tech / I’m interested in ...
 
-Javascript, Hack, Node.js, GoLang
+- React.js
+- Apollo GraphQL
+- Ent Framework
+- GoLang
+- EdgeDB
 
 
 <!---
