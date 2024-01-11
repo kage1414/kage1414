@@ -1,6 +1,9 @@
 # 👋 Hi, I’m @kage1414
 
 ### Experience
+#### Authenticx
+##### 2023 - present
+Frontend Engineer - Platform
 #### CremaLab
 ##### 2022 - 2023
 Frontend Developer - Enterprise Products
