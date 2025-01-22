@@ -7,10 +7,10 @@
 - Platform Engineer
 #### CremaLab
 ##### 2022 - 2023
-Frontend Developer - Enterprise Products
+- Frontend Developer - Enterprise Products
 #### Facebook / Meta
 ##### 2021 - 2022
-Enterprise Software Engineer - Supply Chain Products
+- Enterprise Software Engineer - Supply Chain Products
 
 ### Projects
 
