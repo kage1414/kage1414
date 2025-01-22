@@ -3,8 +3,8 @@
 ### Experience
 #### Authenticx
 ##### 2023 - 2024
-Frontend Engineer
-Platform Engineer
+- Frontend Engineer
+- Platform Engineer
 #### CremaLab
 ##### 2022 - 2023
 Frontend Developer - Enterprise Products
