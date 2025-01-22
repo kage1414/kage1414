@@ -15,6 +15,7 @@
 ### Projects
 
 - [LyricKeeper](https://www.lyrickeeper.com/)
+- [RevWire.co](https://revwire.co)
 
 ### Favorite Tech / I’m interested in ...
 
